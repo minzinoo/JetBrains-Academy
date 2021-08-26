@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Hiring a chef/Cinema_Room_Manager.Topics-Scanning_the_input-Hiring_a_chef.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Hiring a chef/Cinema_Room_Manager.Topics-Scanning_the_input-Hiring_a_chef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Hiring a chef/Cinema_Room_Manager.Topics-Scanning_the_input-Hiring_a_chef.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Hiring a chef/Cinema_Room_Manager.Topics-Scanning_the_input-Hiring_a_chef.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Hiring a chef/Cinema_Room_Manager.Topics-Scanning_the_input-Hiring_a_chef.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Hiring a chef/Cinema_Room_Manager.Topics-Scanning_the_input-Hiring_a_chef.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Printing each word in a new line/Cinema_Room_Manager.Topics-Scanning_the_input-Printing_each_word_in_a_new_line.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Printing each word in a new line/Cinema_Room_Manager.Topics-Scanning_the_input-Printing_each_word_in_a_new_line.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Printing each word in a new line/Cinema_Room_Manager.Topics-Scanning_the_input-Printing_each_word_in_a_new_line.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Printing each word in a new line/Cinema_Room_Manager.Topics-Scanning_the_input-Printing_each_word_in_a_new_line.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Printing each word in a new line/Cinema_Room_Manager.Topics-Scanning_the_input-Printing_each_word_in_a_new_line.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Printing each word in a new line/Cinema_Room_Manager.Topics-Scanning_the_input-Printing_each_word_in_a_new_line.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Theory/Cinema_Room_Manager.Topics-Scanning_the_input-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Theory/Cinema_Room_Manager.Topics-Scanning_the_input-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Theory/Cinema_Room_Manager.Topics-Scanning_the_input-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Theory/Cinema_Room_Manager.Topics-Scanning_the_input-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Theory/Cinema_Room_Manager.Topics-Scanning_the_input-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Scanning the input/Theory/Cinema_Room_Manager.Topics-Scanning_the_input-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" />
+    </modules>
+  </component>
+</project>
