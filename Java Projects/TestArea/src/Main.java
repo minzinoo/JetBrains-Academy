@@ -2,33 +2,36 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Enter the amount you have!\n");
+        /*Scanner scanner = new Scanner(System.in);
+        int input = scanner.nextInt();
+        if (input < 0) {
+            System.out.println("You don't have sufficient money to buy anything!");
+        } else if (input < 100){
+            System.out.println("You can buy some food!");
+        } else if (input < 1000){
+            System.out.println("You can buy a cheap phone!");
+        } else if (input < 10000){
+            System.out.println("You can buy an iPhone or Macbook!");
+        }else if (input < 100000){
+            System.out.println("You can buy a good car!");
+        }else {
+            System.out.println("You can buy a house then!");
+        }*/
         Scanner scanner = new Scanner(System.in);
-        /*int ah = scanner.nextInt();
-        int am = scanner.nextInt();
-        int as = scanner.nextInt();
-        int bh = scanner.nextInt();
-        int bm = scanner.nextInt();
-        int bs = scanner.nextInt();
-        int a = (((ah * 60) * 60) + (am * 60) + as);
-        int b = (((bh * 60) * 60) + (bm * 60) + bs);
-        System.out.println(a);
-        int ch = scanner.nextInt();
-        int cm = scanner.nextInt();
-        int cs = scanner.nextInt();
-        int dh = scanner.nextInt();
-        int dm = scanner.nextInt();
-        int ds = scanner.nextInt();
-        int c = (((ch * 60) * 60) + (cm * 60) + cs);
-        int d = (((dh * 60) * 60) + (dm * 60) + ds);
-        System.out.println(c - 3700);*/
-
-        int one = 1;
-        int two = 2;
-        int three = 3;
-        int four = 4;
-
-        boolean res1 = one == one;
-        boolean res2 = two == four;
-        System.out.println(res2);
+        int a = scanner.nextInt();
+        if (a < 1) {
+            System.out.println("no army");
+        } else if (a < 19) {
+            System.out.println("pack");
+        } else if (a < 249) {
+            System.out.println("throng");
+        } else if (a < 999) {
+            System.out.println("zounds");
+        }
+        else {
+            System.out.println("legion");
+        }
     }
 }
+
