@@ -9,6 +9,7 @@ public class Main {
             s += 1;
         }
         System.out.println(s);
+        // Testing Git connection
         /*Scanner scanner = new Scanner(System.in);
         int n;
         int max = Integer.MIN_VALUE;
