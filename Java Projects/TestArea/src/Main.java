@@ -2,13 +2,61 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n;
-        int s=0;
-        while ((n = scanner.nextInt()) != 0) {
-            s += 1;
+        String s1 = new String("java");
+        String s2 = new String("java");
+        String s3 = s2;
+        System.out.println(s1.equals(s3));
+        System.out.println(s2.equals(s3));
+
+        /*Scanner scanner = new Scanner(System.in);
+        while (true) {
+            int i = scanner.nextInt();
+            if (i == 0) {
+                break;
+            }else if (i % 2 == 0 ) {
+                System.out.println("even");
+            } else {
+                System.out.println("odd");
+            }
+        }*/
+
+        //break
+        /*for (int i = 0; i < 5; i++) {
+            for (char letter = 'a'; letter <= 'f'; letter++) {
+                if (letter < 'f') {
+                    continue;
+                }
+                System.out.println(letter);
+            }
+        }*/
+        /*for (int i = 0; i < 5; i++) {
+            System.out.println(i);
+            if (i < 3) {
+                continue;
+            } else {
+                for (int j = 0; j < 5; j++) {
+                    System.out.println(j);
+                }
+            }
+        }*/
+        /*Scanner scanner = new Scanner(System.in);
+        long m = scanner.nextLong();
+        long f = 1;
+        long i = 1;
+        while (m >= f) {
+            f = f * i;
+            i++;
         }
-        System.out.println(s);
+        System.out.println(i-1);*/
+        /*Scanner scanner = new Scanner(System.in);
+        long m = scanner.nextLong();
+        long i = 2;
+        long r = m / i;
+        while (r > 0) {
+            r /= i;
+            i++;
+        }
+        System.out.println(i-1);*/
         // Testing Git connection
         /*Scanner scanner = new Scanner(System.in);
         int n;
