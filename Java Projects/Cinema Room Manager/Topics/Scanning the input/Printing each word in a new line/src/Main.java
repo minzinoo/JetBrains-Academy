@@ -7,6 +7,7 @@ class Main {
         String word3 = scanner.next();
         String word4 = scanner.next();
         String word5 = scanner.next();
-        System.out.println(word1 + "\n" + word2 + "\n" + word3 + "\n" + word4 + "\n" + word5);
+        String word6 = scanner.next();
+        System.out.println(word1 + "\n" + word2 + "\n" + word3 + "\n" + word4 + "\n" + word5 + "\n" + word6);
     }
 }
